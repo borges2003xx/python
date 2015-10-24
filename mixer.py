@@ -5,7 +5,7 @@ import unicodedata
 
 indirizzi=[]
 
-with open('/home/giorgio/Scrivania/scripti2/feedly.opml', 'rt') as f:
+with open('feedly.opml', 'rt') as f:
     tree = ElementTree.parse(f)
     
 for node in tree.findall('.//outline'):

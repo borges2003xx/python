@@ -1,7 +1,7 @@
 
 from xml.etree import ElementTree
 
-with open('/home/giorgio/python_repo/feedly.opml', 'rt') as f:
+with open('feedly.opml', 'rt') as f:
     tree = ElementTree.parse(f)
     
 #for node in tree.iter():
