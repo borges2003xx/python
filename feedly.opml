@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>giorgio subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Health" title="Health">
+            <outline type="rss" text="Drugs.com - FDA MedWatch Alerts" title="Drugs.com - FDA MedWatch Alerts" xmlUrl="http://www.drugs.com/feeds/fda_alerts.xml" htmlUrl="http://www.drugs.com/fda_alerts.html"/>
+        </outline>
+        <outline text="News" title="News">
+            <outline type="rss" text="Internazionale" title="Internazionale" xmlUrl="http://www.internazionale.it/subscribe/backstage/" htmlUrl="http://www.internazionale.it/"/>
+        </outline>
+        <outline text="lettura" title="lettura">
+            <outline type="rss" text="Wired Science » Science Blogs" title="Wired Science » Science Blogs" xmlUrl="http://www.wired.com/wiredscience/category/science-blogs/feed/" htmlUrl="http://www.wired.com"/>
+            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com"/>
+            <outline type="rss" text="TUAW - The Unofficial Apple Weblog" title="TUAW - The Unofficial Apple Weblog" xmlUrl="http://www.tuaw.com/rss.xml" htmlUrl="http://www.engadget.com"/>
+            <outline type="rss" text="Mashable!" title="Mashable!" xmlUrl="http://feeds.mashable.com/Mashable?format=xml" htmlUrl="http://mashable.com/stories/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&amp;utm_cid=Mash-Prod-RSS-Feedburner-All-Partial&amp;utm_medium=feed&amp;utm_source=rss"/>
+            <outline type="rss" text="New Scientist - Online News" title="New Scientist - Online News" xmlUrl="http://feeds.newscientist.com/online-news" htmlUrl="https://www.newscientist.com"/>
+            <outline type="rss" text="Scientific American" title="Scientific American" xmlUrl="http://www.sciam.com/xml/sciam.xml" htmlUrl="http://www.scientificamerican.com"/>
+            <outline type="rss" text="ScienceDaily: Latest Science News" title="ScienceDaily: Latest Science News" xmlUrl="http://www.sciencedaily.com/rss/newsfeed.xml" htmlUrl="http://www.sciencedaily.com/news/"/>
+            <outline type="rss" text="Wired Top Stories" title="Wired Top Stories" xmlUrl="http://www.wired.com/news/feeds/rss2/0,2610,,00.xml" htmlUrl="http://www.wired.com"/>
+            <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="http://lifehacker.com/index.xml" htmlUrl="http://lifehacker.com"/>
+            <outline type="rss" text="ScienceBlogs Select" title="ScienceBlogs Select" xmlUrl="http://feeds.feedburner.com/scienceblogs/ScienceblogsSelect" htmlUrl="http://scienceblogs.com"/>
+            <outline type="rss" text="SPACE.com" title="SPACE.com" xmlUrl="http://www.space.com/home/feed/site.xml" htmlUrl="http://www.space.com/"/>
+            <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/"/>
+            <outline type="rss" text="science - Reddit" title="science - Reddit" xmlUrl="http://www.reddit.com/r/science/.rss" htmlUrl="http://www.reddit.com/r/science/"/>
+            <outline type="rss" text="Science: Current Issue" title="Science: Current Issue" xmlUrl="http://www.sciencemag.org/rss/current.xml" htmlUrl="http://www.sciencemag.org"/>
+        </outline>
+        <outline text="Fda" title="Fda">
+            <outline type="rss" text="What's New: Drugs RSS Feed" title="What's New: Drugs RSS Feed" xmlUrl="http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Drugs/rss.xml" htmlUrl="http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Drugs/rss.xml"/>
+        </outline>
+        <outline text="albert" title="albert">
+            <outline type="rss" text="Alberto Forchielli" title="Alberto Forchielli" xmlUrl="http://feeds.feedburner.com/AlbertoForchielli" htmlUrl="http://www.albertoforchielli.com"/>
+            <outline type="rss" text="T-island » Blog" title="T-island » Blog" xmlUrl="http://www.t-island.eu/category/blog/feed/" htmlUrl="http://www.t-island.eu"/>
+            <outline type="rss" text="Stampa 3D Italia" title="Stampa 3D Italia" xmlUrl="http://www.stampa-3d.com/feed/" htmlUrl="http://www.stampa-3d.com"/>
+        </outline>
+        <outline text="farma" title="farma">
+            <outline type="rss" text="What's New: Drugs RSS Feed" title="What's New: Drugs RSS Feed" xmlUrl="http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Drugs/rss.xml" htmlUrl="http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Drugs/rss.xml"/>
+            <outline type="rss" text="Cancer Chemotherapy: MedlinePlus" title="Cancer Chemotherapy: MedlinePlus" xmlUrl="https://www.nlm.nih.gov/medlineplus/feeds/topics/cancerchemotherapy.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/cancerchemotherapy.html"/>
+            <outline type="rss" text="HIV/AIDS Medicines New Links: MedlinePlus RSS Feed" title="HIV/AIDS Medicines New Links: MedlinePlus RSS Feed" xmlUrl="https://www.nlm.nih.gov/medlineplus/feeds/topics/hivaidsmedicines.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/hivaidsmedicines.html"/>
+            <outline type="rss" text="Drugs.com - New Drug Approvals" title="Drugs.com - New Drug Approvals" xmlUrl="http://www.drugs.com/feeds/new_drug_approvals.xml" htmlUrl="http://www.drugs.com/newdrugs.html"/>
+            <outline type="rss" text="Blood Pressure Medicines: MedlinePlus" title="Blood Pressure Medicines: MedlinePlus" xmlUrl="https://www.nlm.nih.gov/medlineplus/feeds/topics/bloodpressuremedicines.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/bloodpressuremedicines.html"/>
+            <outline type="rss" text="What's New: Vaccines, Blood &amp; Biologics RSS Feed" title="What's New: Vaccines, Blood &amp; Biologics RSS Feed" xmlUrl="http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Biologics/rss.xml" htmlUrl="http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Biologics/rss.xml"/>
+            <outline type="rss" text="Drug Reactions New Links" title="Drug Reactions New Links" xmlUrl="https://www.nlm.nih.gov/medlineplus/feeds/topics/drugreactions.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/drugreactions.html"/>
+            <outline type="rss" text="Pharmacy / Pharmacist News From Medical News Today" title="Pharmacy / Pharmacist News From Medical News Today" xmlUrl="http://rss.medicalnewstoday.com/pharmacy.xml" htmlUrl="http://www.medicalnewstoday.com/sections/pharmacy/"/>
+            <outline type="rss" text="Drug Safety New Links: MedlinePlus RSS Feed" title="Drug Safety New Links: MedlinePlus RSS Feed" xmlUrl="https://www.nlm.nih.gov/medlineplus/feeds/topics/drugsafety.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/drugsafety.html"/>
+            <outline type="rss" text="FDA Drug Info Rounds" title="FDA Drug Info Rounds" xmlUrl="http://www.fda.gov/downloads/Drugs/ResourcesForYou/HealthProfessionals/UCM220293.xml" htmlUrl="http://www.fda.gov/Drugs/ResourcesForYou/HealthProfessionals/ucm211957.htm"/>
+            <outline type="rss" text="Steroids New Links" title="Steroids New Links" xmlUrl="https://www.nlm.nih.gov/medlineplus/feeds/topics/steroids.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/steroids.html"/>
+            <outline type="rss" text="Medscape Pharmacists Headlines" title="Medscape Pharmacists Headlines" xmlUrl="http://www.medscape.com/cx/rssfeeds/2691.xml" htmlUrl="http://www.medscape.com/pharmacists?src=rss"/>
+            <outline type="rss" text="Antibiotics New Links" title="Antibiotics New Links" xmlUrl="http://www.nlm.nih.gov/medlineplus/feeds/topics/antibiotics.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/antibiotics.html"/>
+            <outline type="rss" text="FDA Voice" title="FDA Voice" xmlUrl="https://blogs.fda.gov/fdavoice/?feed=rss" htmlUrl="http://blogs.fda.gov/fdavoice"/>
+            <outline type="rss" text="Drugs.com - Pharma Industry News" title="Drugs.com - Pharma Industry News" xmlUrl="http://www.drugs.com/feeds/headline_news.xml" htmlUrl="http://www.drugs.com/pharmanews.html"/>
+            <outline type="rss" text="Drugs.com - Clinical Trials" title="Drugs.com - Clinical Trials" xmlUrl="http://www.drugs.com/feeds/clinical_trials.xml" htmlUrl="http://www.drugs.com/clinical_trials.html"/>
+            <outline type="rss" text="Drugs.com - FDA MedWatch Alerts" title="Drugs.com - FDA MedWatch Alerts" xmlUrl="http://www.drugs.com/feeds/fda_alerts.xml" htmlUrl="http://www.drugs.com/fda_alerts.html"/>
+            <outline type="rss" text="Pain Relievers New Links" title="Pain Relievers New Links" xmlUrl="https://www.nlm.nih.gov/medlineplus/feeds/topics/painrelievers.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/painrelievers.html"/>
+            <outline type="rss" text="WHO news" title="WHO news" xmlUrl="http://www.who.int/feeds/entity/mediacentre/news/en/rss.xml" htmlUrl="http://www.who.int/feeds/entity/mediacentre/news/en/rss.xml"/>
+            <outline type="rss" text="Drugs.com - New Drug Applications" title="Drugs.com - New Drug Applications" xmlUrl="http://www.drugs.com/feeds/new_drug_applications.xml" htmlUrl="http://www.drugs.com/new-drug-applications.html"/>
+            <outline type="rss" text="MedicineNet Medications General" title="MedicineNet Medications General" xmlUrl="http://www.medicinenet.com/rss/general/medications.xml" htmlUrl="http://www.medicinenet.com/medications/focus.htm"/>
+            <outline type="rss" text="Antidepressants New Links" title="Antidepressants New Links" xmlUrl="https://www.nlm.nih.gov/medlineplus/feeds/topics/antidepressants.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/antidepressants.html"/>
+        </outline>
+        <outline text="future" title="future">
+            <outline type="rss" text="ETH PIXHAWK" title="ETH PIXHAWK" xmlUrl="https://pixhawk.ethz.ch/feed.php" htmlUrl="https://pixhawk.ethz.ch/"/>
+            <outline type="rss" text="OscarLiang.net" title="OscarLiang.net" xmlUrl="http://blog.oscarliang.net/feed/" htmlUrl="http://blog.oscarliang.net"/>
+            <outline type="rss" text="Everyone's Blog Posts - DIY Drones" title="Everyone's Blog Posts - DIY Drones" xmlUrl="http://diydrones.com/profiles/blog/feed?xn_auth=no"/>
+            <outline type="rss" text="RC Groups - Multirotor Electronics" title="RC Groups - Multirotor Electronics" xmlUrl="http://www.rcgroups.com/forums/external.php?type=rss2&amp;forumids=792" htmlUrl="http://www.rcgroups.com/forums/"/>
+            <outline type="rss" text="PX4 Autopilot Project: Software Choice for Pixhawk Hardware" title="PX4 Autopilot Project: Software Choice for Pixhawk Hardware" xmlUrl="https://pixhawk.org/feed.php" htmlUrl="https://pixhawk.org/"/>
+            <outline type="rss" text="AeroQuad + ArduCopter" title="AeroQuad + ArduCopter" xmlUrl="http://aeroquad.at.webry.info/rss/index.rdf" htmlUrl="http://aeroquad.at.webry.info/"/>
+            <outline type="rss" text="uav - Google News" title="uav - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=uav&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=uav"/>
+            <outline type="rss" text="Discovery News" title="Discovery News" xmlUrl="http://feeds.feedburner.com/DiscoveryNews-Top-Stories" htmlUrl="http://news.discovery.com/"/>
+            <outline type="rss" text="Featured Blog Posts - DIY Drones" title="Featured Blog Posts - DIY Drones" xmlUrl="http://diydrones.com/profiles/blog/feed?promoted=1&amp;xn_auth=no"/>
+            <outline type="rss" text="Nature" title="Nature" xmlUrl="http://www.pbs.org/wnet/nature/feed/" htmlUrl="http://www.pbs.org/wnet/nature"/>
+            <outline type="rss" text="News and Features - NASA's Jet Propulsion Laboratory" title="News and Features - NASA's Jet Propulsion Laboratory" xmlUrl="http://www.jpl.nasa.gov/multimedia/rss/news.xml" htmlUrl="http://www.jpl.nasa.gov/news/"/>
+            <outline type="rss" text="PIXHAWK - DIY Drones" title="PIXHAWK - DIY Drones" xmlUrl="http://diydrones.com/group/pixhawk/forum/topic/list?feed=yes&amp;xn_auth=no"/>
+            <outline type="rss" text="RC Groups - FPV Equipment" title="RC Groups - FPV Equipment" xmlUrl="http://www.rcgroups.com/forums/external.php?type=rss2&amp;forumids=862" htmlUrl="http://www.rcgroups.com/forums/"/>
+            <outline type="rss" text="Scientific American: Space" title="Scientific American: Space" xmlUrl="http://rss.sciam.com/sciam/space" htmlUrl="http://www.scientificamerican.com"/>
+            <outline type="rss" text="Copter" title="Copter" xmlUrl="http://copter.ardupilot.com/feed/" htmlUrl="http://copter.ardupilot.com"/>
+            <outline type="rss" text="3DR | Drone &amp; UAV Technology" title="3DR | Drone &amp; UAV Technology" xmlUrl="http://3drobotics.com/feed/" htmlUrl="https://3drobotics.com"/>
+            <outline type="rss" text="Hongkiat.com" title="Hongkiat.com" xmlUrl="http://feeds2.feedburner.com/24thfloor" htmlUrl="http://www.hongkiat.com/blog"/>
+            <outline type="rss" text="Nature Biotechnology - Issue - nature.com science feeds" title="Nature Biotechnology - Issue - nature.com science feeds" xmlUrl="http://www.nature.com/nbt/current_issue/rss/" htmlUrl="http://www.nature.com/nbt/current_issue/"/>
+            <outline type="rss" text="Drone-RSS.com » Drone-RSS.com" title="Drone-RSS.com » Drone-RSS.com" xmlUrl="http://drone-rss.com/feed/" htmlUrl="http://drone-rss.com"/>
+            <outline type="rss" text="NASA Breaking News" title="NASA Breaking News" xmlUrl="http://www.nasa.gov/rss/breaking_news.rss" htmlUrl="http://www.nasa.gov/"/>
+            <outline type="rss" text="Chris Anderson's Posts - DIY Drones" title="Chris Anderson's Posts - DIY Drones" xmlUrl="http://diydrones.com/profiles/blog/feed?user=zlitezlite&amp;xn_auth=no"/>
+            <outline type="rss" text="National Geographic News" title="National Geographic News" xmlUrl="http://news.nationalgeographic.com/index.rss" htmlUrl="http://news.nationalgeographic.com"/>
+            <outline type="rss" text="FPV Central" title="FPV Central" xmlUrl="http://fpvcentral.net/feed/" htmlUrl="http://fpvcentral.net"/>
+            <outline type="rss" text="Multirotor Electronics - RC Groups" title="Multirotor Electronics - RC Groups" xmlUrl="https://feedity.com/rcgroups-com/VFFQUlNW.rss" htmlUrl="http://www.rcgroups.com/multirotor-electronics-792/"/>
+            <outline type="rss" text="Nature - Issue - nature.com science feeds" title="Nature - Issue - nature.com science feeds" xmlUrl="http://www.nature.com/nature/current_issue/rss" htmlUrl="http://www.nature.com/nature/current_issue/"/>
+            <outline type="rss" text="National Geographic Italia &gt; Spazio" title="National Geographic Italia &gt; Spazio" xmlUrl="http://www.nationalgeographic.it/rss/scienza/spazio/rss2.0.xml" htmlUrl="http://www.nationalgeographic.it/scienza/spazio"/>
+            <outline type="rss" text="RC Groups - UAV - Unmanned Aerial Vehicles" title="RC Groups - UAV - Unmanned Aerial Vehicles" xmlUrl="http://www.rcgroups.com/forums/external.php?type=rss2&amp;forumids=238" htmlUrl="http://www.rcgroups.com/forums/"/>
+            <outline type="rss" text="SmartWorld" title="SmartWorld" xmlUrl="http://www.smartworld.it/feed" htmlUrl="http://www.smartworld.it"/>
+            <outline type="rss" text="Top Discussions" title="Top Discussions" xmlUrl="http://diydrones.com/leaderboards/discussions/week?feed=yes&amp;xn_auth=no&amp;n=20&amp;images=yes&amp;imageMaxSize=240" htmlUrl="http://diydrones.com/leaderboards/discussions/week"/>
+            <outline type="rss" text="Top Content" title="Top Content" xmlUrl="http://diydrones.com/leaderboards/topcontent/week?feed=yes&amp;xn_auth=no&amp;n=20&amp;images=yes&amp;imageMaxSize=240" htmlUrl="https://diydrones.com/leaderboards/topcontent/week"/>
+            <outline type="rss" text="Science This Week in Science TOC RSS Feed" title="Science This Week in Science TOC RSS Feed" xmlUrl="http://www.sciencemag.org/rss/twis.xml" htmlUrl="http://www.sciencemag.org"/>
+            <outline type="rss" text="Scientific American" title="Scientific American" xmlUrl="http://xml.newsisfree.com/feeds/39/1439.xml" htmlUrl="http://www.sciam.com/news_directory.cfm"/>
+            <outline type="rss" text="OpenPilot.org - The Next Generation Open Source UAV Autopilot" title="OpenPilot.org - The Next Generation Open Source UAV Autopilot" xmlUrl="http://www.openpilot.org/feed/" htmlUrl="https://www.openpilot.org"/>
+        </outline>
+        <outline text="scienza" title="scienza">
+            <outline type="rss" text="National Geographic Italia &gt; National Geographic" title="National Geographic Italia &gt; National Geographic" xmlUrl="http://www.nationalgeographic.it/rss/all/rss2.0.xml" htmlUrl="http://www.nationalgeographic.it"/>
+            <outline type="rss" text="Scienza" title="Scienza" xmlUrl="http://www.focus.it/rss/canale/scienza.aspx" htmlUrl="http://www.focus.it/"/>
+            <outline type="rss" text="News Center" title="News Center" xmlUrl="http://newscenter.lbl.gov/feed/" htmlUrl="http://newscenter.lbl.gov"/>
+            <outline type="rss" text="Le Scienze Italia &gt; Scienze" title="Le Scienze Italia &gt; Scienze" xmlUrl="http://www.lescienze.it/rss/all/rss2.0.xml" htmlUrl="http://www.lescienze.it"/>
+            <outline type="rss" text="AstronautiNEWS" title="AstronautiNEWS" xmlUrl="http://www.astronautinews.it/feed/" htmlUrl="http://www.astronautinews.it"/>
+            <outline type="rss" text="Le Scienze Italia &gt; Lanci" title="Le Scienze Italia &gt; Lanci" xmlUrl="http://www.lescienze.it/rss/lanci/rss2.0.xml" htmlUrl="http://www.lescienze.it/lanci"/>
+            <outline type="rss" text="Scientific American" title="Scientific American" xmlUrl="http://feeds.nature.com/scientificamerican/rss/current" htmlUrl="http://www.nature.com/scientificamerican/current_issue/"/>
+            <outline type="rss" text="Astrobiology Magazine » Blogs" title="Astrobiology Magazine » Blogs" xmlUrl="http://www.astrobio.net/blog/?feed=rss2" htmlUrl="http://www.astrobio.net"/>
+            <outline type="rss" text="Scientificast" title="Scientificast" xmlUrl="http://www.scientificast.it/?feed=rss2" htmlUrl="http://www.scientificast.it"/>
+            <outline type="rss" text="Astrobiology Magazine" title="Astrobiology Magazine" xmlUrl="http://www.astrobio.net/rss/dailynews/rssDailyNews.xml" htmlUrl="http://www.astrobio.net"/>
+            <outline type="rss" text="Borborigmi di un fisico renitente" title="Borborigmi di un fisico renitente" xmlUrl="http://www.borborigmi.org/feed/" htmlUrl="http://www.borborigmi.org"/>
+            <outline type="rss" text="MedBunker - Le scomode verità" title="MedBunker - Le scomode verità" xmlUrl="http://medbunker.blogspot.com/feeds/posts/default" htmlUrl="http://medbunker.blogspot.com/"/>
+            <outline type="rss" text="WIRED" title="WIRED" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="http://www.wired.com"/>
+            <outline type="rss" text="MolecularLab.it - News di Scienza, Ricerca, Biotech, Medicina e Biologia Molecolare" title="MolecularLab.it - News di Scienza, Ricerca, Biotech, Medicina e Biologia Molecolare" xmlUrl="http://www.molecularlab.it/news/rss/rss.asp" htmlUrl="http://www.molecularlab.it/news/"/>
+            <outline type="rss" text="Nature - Issue - nature.com science feeds" title="Nature - Issue - nature.com science feeds" xmlUrl="http://feeds.nature.com/nature/rss/current" htmlUrl="http://www.nature.com/nature/current_issue/"/>
+            <outline type="rss" text="Fantascienza.com" title="Fantascienza.com" xmlUrl="http://www.fantascienza.com/magazine/rss/fantascienza_com_home.rss" htmlUrl="http://www.fantascienza.com/"/>
+            <outline type="rss" text="Oggi Scienza" title="Oggi Scienza" xmlUrl="http://oggiscienza.wordpress.com/feed/" htmlUrl="http://oggiscienza.it"/>
+            <outline type="rss" text="Made in Italy" title="Made in Italy" xmlUrl="http://cattaneo-lescienze.blogautore.espresso.repubblica.it/feed/" htmlUrl="http://cattaneo-lescienze.blogautore.espresso.repubblica.it"/>
+            <outline type="rss" text="ProgrammableWeb" title="ProgrammableWeb" xmlUrl="http://feeds.feedburner.com/ProgrammableWeb" htmlUrl="http://www.programmableweb.com/rss_blog/feed/atom"/>
+            <outline type="rss" text="Rudi Matematici" title="Rudi Matematici" xmlUrl="http://rudimatematici-lescienze.blogautore.espresso.repubblica.it/feed/" htmlUrl="http://rudimatematici-lescienze.blogautore.espresso.repubblica.it"/>
+            <outline type="rss" text="Gravità Zero" title="Gravità Zero" xmlUrl="http://www.gravita-zero.org/feeds/posts/default" htmlUrl="http://www.gravita-zero.org/"/>
+            <outline type="rss" text="RSS di Tecnologia - ANSA.it" title="RSS di Tecnologia - ANSA.it" xmlUrl="http://www.ansa.it/web/notizie/rubriche/scienza/scienza_rss.xml" htmlUrl="http://www.ansa.it/sito/notizie/tecnologia/tecnologia.shtml"/>
+            <outline type="rss" text="Il Disinformatico" title="Il Disinformatico" xmlUrl="http://attivissimo.blogspot.com/atom.xml" htmlUrl="http://attivissimo.blogspot.com/"/>
+            <outline type="rss" text="Il non-senso della vita 3.0" title="Il non-senso della vita 3.0" xmlUrl="http://odifreddi.blogautore.repubblica.it/feed/" htmlUrl="http://odifreddi.blogautore.repubblica.it"/>
+            <outline type="rss" text="Astronomia.com" title="Astronomia.com" xmlUrl="http://www.astronomia.com/feed/" htmlUrl="http://www.astronomia.com"/>
+            <outline type="rss" text="FarmaciaVirtuale" title="FarmaciaVirtuale" xmlUrl="http://farmaciavirtuale.it/feed/" htmlUrl="http://farmaciavirtuale.it"/>
+            <outline type="rss" text="Science Forums Blogs" title="Science Forums Blogs" xmlUrl="http://feeds.feedburner.com/sfn-blogs" htmlUrl="http://www.scienceforums.net/"/>
+            <outline type="rss" text="Repubblica.it &gt; Tecnologia" title="Repubblica.it &gt; Tecnologia" xmlUrl="http://www.repubblica.it/rss/scienza_e_tecnologia/rss2.0.xml" htmlUrl="http://www.repubblica.it/tecnologia"/>
+            <outline type="rss" text="Keplero" title="Keplero" xmlUrl="http://feeds.feedburner.com/Keplero" htmlUrl="http://www.keplero.org/"/>
+        </outline>
+        <outline text="Medicine" title="Medicine">
+            <outline type="rss" text="Medicines New Links: MedlinePlus RSS Feed" title="Medicines New Links: MedlinePlus RSS Feed" xmlUrl="http://www.nlm.nih.gov/medlineplus/feeds/topics/medicines.xml" htmlUrl="https://www.nlm.nih.gov/medlineplus/medicines.html"/>
+            <outline type="rss" text="WHO news" title="WHO news" xmlUrl="http://www.who.int/feeds/entity/mediacentre/news/en/rss.xml" htmlUrl="http://www.who.int/feeds/entity/mediacentre/news/en/rss.xml"/>
+        </outline>
+        <outline text="Pharma" title="Pharma">
+            <outline type="rss" text="Drugs.com - Pharma Industry News" title="Drugs.com - Pharma Industry News" xmlUrl="http://www.drugs.com/feeds/headline_news.xml" htmlUrl="http://www.drugs.com/pharmanews.html"/>
+            <outline type="rss" text="Drugs.com - Clinical Trials" title="Drugs.com - Clinical Trials" xmlUrl="http://www.drugs.com/feeds/clinical_trials.xml" htmlUrl="http://www.drugs.com/clinical_trials.html"/>
+        </outline>
+        <outline text="light" title="light">
+            <outline type="rss" text="Computational Complexity" title="Computational Complexity" xmlUrl="http://blog.computationalcomplexity.org/rss.xml" htmlUrl="http://blog.computationalcomplexity.org/"/>
+            <outline type="rss" text="Ars Mathematica" title="Ars Mathematica" xmlUrl="http://www.arsmathematica.net/feed/" htmlUrl="http://www.arsmathematica.net"/>
+            <outline type="rss" text="Recent Questions - Mathematica Stack Exchange" title="Recent Questions - Mathematica Stack Exchange" xmlUrl="http://mathematica.stackexchange.com/feeds" htmlUrl="http://mathematica.stackexchange.com/questions"/>
+            <outline type="rss" text="Walking Randomly" title="Walking Randomly" xmlUrl="http://feeds.feedburner.com/WalkingRandomly" htmlUrl="http://www.walkingrandomly.com"/>
+            <outline type="rss" text="Shtetl-Optimized" title="Shtetl-Optimized" xmlUrl="http://www.scottaaronson.com/blog/?feed=rss2" htmlUrl="http://www.scottaaronson.com/blog"/>
+            <outline type="rss" text="kaurøv b l ø g" title="kaurøv b l ø g" xmlUrl="http://kaurov.com/wordpress/?feed=rss2" htmlUrl="http://kaurov.com/wordpress"/>
+            <outline type="rss" text="Wolfram Science" title="Wolfram Science" xmlUrl="http://wolframscience.typepad.com/wolfram_science/atom.xml" htmlUrl="http://wolframscience.typepad.com/wolfram_science/"/>
+            <outline type="rss" text="subblue" title="subblue" xmlUrl="http://feeds.feedburner.com/subblue" htmlUrl="http://www.subblue.com/"/>
+            <outline type="rss" text="The Ratiocinator" title="The Ratiocinator" xmlUrl="http://ratioc1nat0r.blogspot.com/feeds/posts/default" htmlUrl="http://ratioc1nat0r.blogspot.com/"/>
+            <outline type="rss" text="Wolfram Blog" title="Wolfram Blog" xmlUrl="http://blog.wolfram.com/feed/" htmlUrl="http://blog.wolfram.com"/>
+            <outline type="rss" text="Cosmic Variance" title="Cosmic Variance" xmlUrl="http://feeds.feedburner.com/CosmicVariance" htmlUrl="http://blogs.discovermagazine.com/cosmicvariance"/>
+            <outline type="rss" text="Anima Ex Machina | Hector Zenil's blog" title="Anima Ex Machina | Hector Zenil's blog" xmlUrl="http://feeds2.feedburner.com/AnimaExMachina?format=xml" htmlUrl="http://www.mathrix.org/liquid"/>
+            <outline type="rss" text="Wolfram|Alpha Blog" title="Wolfram|Alpha Blog" xmlUrl="http://blog.wolframalpha.com/feed/" htmlUrl="http://blog.wolframalpha.com"/>
+            <outline type="rss" text="The Mathematica Journal" title="The Mathematica Journal" xmlUrl="http://www.mathematica-journal.com/feed/" htmlUrl="http://www.mathematica-journal.com"/>
+            <outline type="rss" text="ramble" title="ramble" xmlUrl="http://owenrackham.co.uk/blog/?feed=rss2" htmlUrl="http://www.owenrackham.co.uk"/>
+            <outline type="rss" text="Combinatorics and more" title="Combinatorics and more" xmlUrl="http://gilkalai.wordpress.com/feed/" htmlUrl="https://gilkalai.wordpress.com"/>
+            <outline type="rss" text="Stephen Wolfram Blog" title="Stephen Wolfram Blog" xmlUrl="http://blog.stephenwolfram.com/feed/" htmlUrl="http://blog.stephenwolfram.com"/>
+            <outline type="rss" text="Discover Top Stories" title="Discover Top Stories" xmlUrl="http://feeds.feedburner.com/DiscoverTopStories?format=xml" htmlUrl="http://discovermagazine.com/rss/master-feeds/top-stories"/>
+            <outline type="rss" text="Blog - NASA Jet Propulsion Laboratory" title="Blog - NASA Jet Propulsion Laboratory" xmlUrl="http://blogs.jpl.nasa.gov/?feed=rss2" htmlUrl="http://blogs.jpl.nasa.gov"/>
+            <outline type="rss" text="Phil Bradley's weblog" title="Phil Bradley's weblog" xmlUrl="http://philbradley.typepad.com/phil_bradleys_weblog/atom.xml" htmlUrl="http://philbradley.typepad.com/phil_bradleys_weblog/"/>
+        </outline>
+        <outline text="Economia" title="Economia">
+            <outline type="rss" text="Wall Street Italia" title="Wall Street Italia" xmlUrl="http://feeds.feedburner.com/wallstreetitalia" htmlUrl="http://www.wallstreetitalia.com"/>
+            <outline type="rss" text="Orizzonte48" title="Orizzonte48" xmlUrl="http://orizzonte48.blogspot.com/feeds/posts/default" htmlUrl="http://orizzonte48.blogspot.com/"/>
+            <outline type="rss" text="Il Sole 24 ORE - Tecnologie" title="Il Sole 24 ORE - Tecnologie" xmlUrl="http://www.ilsole24ore.com/rss/tecnologia-business.xml" htmlUrl="http://www.ilsole24ore.com"/>
+            <outline type="rss" text="Goofynomics" title="Goofynomics" xmlUrl="http://goofynomics.blogspot.com/feeds/posts/default" htmlUrl="http://goofynomics.blogspot.com/"/>
+            <outline type="rss" text="Vocidallestero" title="Vocidallestero" xmlUrl="http://vocidallestero.it/feed/rss/" htmlUrl="http://vocidallestero.it"/>
+            <outline type="rss" text="IMF Publications" title="IMF Publications" xmlUrl="http://www.imf.org/external/rss/feeds.aspx?category=PUBS_ALL" htmlUrl="http://www.imf.org/external/pubind.htm"/>
+            <outline type="rss" text="Milano Finanza" title="Milano Finanza" xmlUrl="http://www.milanofinanza.it/rssreader/rssflusso.asp?tipo=caldissime" htmlUrl="http://www.milanofinanza.it"/>
+            <outline type="rss" text="RSS di Economia  - ANSA.it" title="RSS di Economia  - ANSA.it" xmlUrl="http://www.ansa.it/site/notizie/awnplus/economia/synd/ansait_site_economia_synd_Today_Idx.xml" htmlUrl="http://www.ansa.it/sito/notizie/economia/economia.shtml"/>
+            <outline type="rss" text="Il Sussidiario.net :: Claudio Borghi Aquilini" title="Il Sussidiario.net :: Claudio Borghi Aquilini" xmlUrl="http://www.ilsussidiario.net/Feed/autore/2826/Claudio-Borghi-Aquilini/" htmlUrl="http://www.ilsussidiario.net/Intervistati/Archivio/2826/Claudio-Borghi-Aquilini/"/>
+            <outline type="rss" text="L'economia della trasparenza" title="L'economia della trasparenza" xmlUrl="http://vitolops.blog.ilsole24ore.com/feed/" htmlUrl="http://vitolops.blog.ilsole24ore.com"/>
+            <outline type="rss" text="IntermarketAndMore" title="IntermarketAndMore" xmlUrl="http://intermarketandmore.finanza.com/feed" htmlUrl="http://intermarketandmore.finanza.com"/>
+            <outline type="rss" text="Phastidio.net" title="Phastidio.net" xmlUrl="http://feeds.feedburner.com/phastidio/lhrg" htmlUrl="http://phastidio.net"/>
+            <outline type="rss" text="VoxEeurop" title="VoxEeurop" xmlUrl="http://www.voxeurop.eu/it/feed/rss/all.xml" htmlUrl="http://www.voxeurop.eu/it"/>
+            <outline type="rss" text="Formiche" title="Formiche" xmlUrl="http://www.formiche.net/feed/" htmlUrl="http://www.formiche.net"/>
+            <outline type="rss" text="Finanza.com Blog Network Posts" title="Finanza.com Blog Network Posts" xmlUrl="http://blog.finanza.com/wp-content/recent-global-posts-feed.php" htmlUrl="http://blog.finanza.com"/>
+        </outline>
+        <outline text="Apple" title="Apple">
+            <outline type="rss" text="iPhoneNess" title="iPhoneNess" xmlUrl="http://www.iphoneness.com/feed/" htmlUrl="http://www.iphoneness.com"/>
+            <outline type="rss" text="iPhone Italia - Il blog italiano sull'Apple iPhone 6S, iPhone 6 e 6 Plus, iPhone 5S" title="iPhone Italia - Il blog italiano sull'Apple iPhone 6S, iPhone 6 e 6 Plus, iPhone 5S" xmlUrl="http://feeds.feedburner.com/iphoneitalia" htmlUrl="http://www.iphoneitalia.com"/>
+            <outline type="rss" text="AppleInsider - Frontpage News" title="AppleInsider - Frontpage News" xmlUrl="http://www.appleinsider.com/appleinsider.rss" htmlUrl="http://appleinsider.com"/>
+            <outline type="rss" text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" xmlUrl="http://developer.apple.com/swift/blog/news.rss" htmlUrl="http://developer.apple.com/swift/blog/"/>
+            <outline type="rss" text="Apple HDblog" title="Apple HDblog" xmlUrl="http://feeds.feedburner.com/Apple-HDblog" htmlUrl="http://apple.hdblog.it"/>
+            <outline type="rss" text="iSpazio" title="iSpazio" xmlUrl="http://ispazio.feedsportal.com/c/33170/f/624483/index.rss" htmlUrl="http://www.ispazio.net"/>
+        </outline>
+        <outline text="Science" title="Science">
+            <outline type="rss" text="News Center" title="News Center" xmlUrl="http://newscenter.lbl.gov/feed/" htmlUrl="http://newscenter.lbl.gov"/>
+            <outline type="rss" text="Science News" title="Science News" xmlUrl="http://www.scienceforums.net/rss/forums/2-science-news/" htmlUrl="http://www.scienceforums.net"/>
+            <outline type="rss" text="Astrobiology Magazine » Blogs" title="Astrobiology Magazine » Blogs" xmlUrl="http://www.astrobio.net/blog/?feed=rss2" htmlUrl="http://www.astrobio.net"/>
+            <outline type="rss" text="Science Feed" title="Science Feed" xmlUrl="http://www.scienceforums.net/rss/forums/1-science-feed/" htmlUrl="http://www.scienceforums.net"/>
+            <outline type="rss" text="Science Forums Blogs" title="Science Forums Blogs" xmlUrl="http://feeds.feedburner.com/sfn-blogs" htmlUrl="http://www.scienceforums.net/"/>
+            <outline type="rss" text="Astrobiology Magazine" title="Astrobiology Magazine" xmlUrl="http://www.astrobio.net/feed/" htmlUrl="http://www.astrobio.net"/>
+            <outline type="rss" text="Astrobiology Magazine" title="Astrobiology Magazine" xmlUrl="http://www.astrobio.net/rss/dailynews/rssDailyNews.xml" htmlUrl="http://www.astrobio.net"/>
+        </outline>
+        <outline text="Python" title="Python">
+            <outline type="rss" text="PyPI Newest Packages" title="PyPI Newest Packages" xmlUrl="http://pypi.python.org/pypi?%3Aaction=packages_rss" htmlUrl="https://pypi.python.org/pypi"/>
+        </outline>
+    </body>
+</opml>
